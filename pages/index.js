@@ -43,7 +43,7 @@ export default function Home() {
       <div className={styles.centre}>
         <Image
           className={styles.logo}
-          src="/image01.png"
+          src="https://i.vimeocdn.com/video/669065538-41fafaad781845ba3a564d44ea530cd5a24597b6f20f3b274b61833f401256d2-d?f=webp"
           alt="Formula-1 Logo"
           width={600}
           height={200}
