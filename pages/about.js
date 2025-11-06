@@ -11,7 +11,7 @@ const Definition = () => {
          <br/>
          Thank you for exploring my website! This website is one of my beginner projects! I hope you like it :&#41;<br/>
 If you have any feedback, suggestions, or exciting opportunities, I would love to hear from you. Feel free to reach out to me via email gyamlanikanika@gmail.com or connect with me on LinkedIn <Link 
-         href="https://www.linkedin.com/in/kanika-gyamlani-401679252"
+         href="https://www.linkedin.com/in/nitisha-k-b45702261/"
          target="_blank"
          rel="noopener noreferrer"
          >
